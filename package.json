@@ -1,0 +1,24 @@
+{
+  "name": "react-clickaway",
+  "version": "0.0.1",
+  "description": "Clickaway mixin for react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierbyte/react-clickaway.git"
+  },
+  "keywords": [
+    "react",
+    "mixin",
+    "clickaway"
+  ],
+  "author": "javierbyte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierbyte/react-clickaway/issues"
+  },
+  "homepage": "https://github.com/javierbyte/react-clickaway#readme"
+}
