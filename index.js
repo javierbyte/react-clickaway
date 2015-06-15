@@ -1,5 +1,5 @@
 var React = require('react');
-var Events = require('../lib/events');
+var Events = require('./lib/events');
 
 module.exports = {
   //When the component mounts, listen to click events and check if we need to
