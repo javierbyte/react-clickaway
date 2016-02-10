@@ -17,7 +17,7 @@
   ],
   "author": "javierbyte",
   "dependencies": {
-    "react-dom": ">= 0.14.0",
+    "react-dom": ">= 0.14.0"
   },
   "license": "ISC",
   "bugs": {
