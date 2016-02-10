@@ -1,6 +1,6 @@
 var React = require('react');
 var Events = require('./lib/events');
-
+var ReactDOM = require('react-dom');
 module.exports = {
   //When the component mounts, listen to click events and check if we need to
   //Call the componentClickAway function.
@@ -13,7 +13,7 @@ module.exports = {
   },
 
   _checkClickAway: function(e) {
-    var el = React.findDOMNode(this);
+    var el = ReactDOM.findDOMNode(this);
 
       // Check if the target is inside the current component
       if (this.isMounted() &&
